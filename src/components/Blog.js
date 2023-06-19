@@ -1,6 +1,6 @@
 import React from "react";
 import "./Blog.css";
-import ArrowRightAltIcon from "@material-ui/icons/ArrowRightAlt";
+import ArrowRightAltIcon from '@mui/icons-material/ArrowRightAlt';
 
 function Blog({ image, category, title }) {
   return (
